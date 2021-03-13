@@ -8,10 +8,10 @@
 Для запуска программы:
 
 1-й способ: 
-Скачайте папку  out/artifacts/SmartParser_jar и запустите Run.bat
+Зайдите в папку  out/artifacts/SmartParser_jar и запустите Run.bat
 
 2-й способ:
-откройте консоль (командную строку) и введите следующее:
+Откройте консоль (командную строку) и введите следующее:
 java -jar (полный путь, куда сохранен jar-файл)/SmartParser.jar      - для Linux
 java -jar (полный путь, куда сохранен jar-файл)\SmartParser.jar                       - для Windows
 
