@@ -16,7 +16,7 @@ public class AliProductsOutput implements ProductsOutput<AliExpressProduct> {
     @Override
     public void output(List<AliExpressProduct> aliProdList, SimpleFrame frame) {
 
-        File file = new File(System.getProperty("user.dir") + "\\Desktop", "products.csv");
+        File file = new File(System.getProperty("user.dir"), "products.csv");
         try(FileWriter fileWriter = new FileWriter(file)) {
             fileWriter.write("Номер||||Описание товара||||Мин. цена со скидкой||||" +
                     "Макс. цена со скидкой||||Мин. цена||||Макс. цена||||Скидка в %||||"

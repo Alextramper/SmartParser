@@ -13,6 +13,6 @@ public class Messages {
 
     public static final String NOT_FINISHED_FUNCTIONAL = "Парсинг для данного типа магазина еще в разработке";
 
-    public static final String SUCCES_FINISH = "Готово, файл \"products.csv\" создан на рабочем столе. Закройте окно";
+    public static final String SUCCES_FINISH = "Готово. Файл \"products.csv\" находится в "+ System.getProperty("user.dir");
 
 }
