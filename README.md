@@ -6,6 +6,7 @@
 Исполняемый файл программы SmartParser.jar находится по директории : out/artifacts/SmartParser_jar/
 
 Для запуска программы:
+
 1-й способ: 
 Скачайте папку SmartParser_jar и запустите Run.bat
 
