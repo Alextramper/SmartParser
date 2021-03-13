@@ -12,6 +12,8 @@
 
 2-й способ:
 Откройте консоль (командную строку) и введите следующее:
+
 java -jar (полный путь, куда сохранен jar-файл)/SmartParser.jar      - для Linux
-java -jar (полный путь, куда сохранен jar-файл)\SmartParser.jar                       - для Windows
+
+java -jar (полный путь, куда сохранен jar-файл)\SmartParser.jar       - для Windows
 
